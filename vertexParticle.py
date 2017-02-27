@@ -1,7 +1,7 @@
 #=========================================================
 #Patryk Pawlak
 #patrvq@interia.pl
-#Chayan Vinayak is creator of the course "Maya Python API"
+#Chayan Vinayak`a course "Maya Python API"
 #========================================================
 
 # still reDoIt issues ;C /// Fixed just remember that doIt undoIt and so on has to be writen with proper lower/upper case !!!!
